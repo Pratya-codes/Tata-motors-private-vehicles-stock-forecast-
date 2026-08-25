@@ -1,0 +1,8 @@
+Requirements
+-yfinance
+-pandas
+-numpy
+-matplotlib
+-statsmodels
+-arch
+-scikit-learn
